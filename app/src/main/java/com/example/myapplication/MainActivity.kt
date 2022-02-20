@@ -26,5 +26,10 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    fun feature3()
+    {
+
+    }
+
 
 }
