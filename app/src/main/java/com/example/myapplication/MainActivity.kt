@@ -19,4 +19,12 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+
+    fun feature2()
+    {
+
+    }
+
+
+
 }
